@@ -211,7 +211,7 @@ section{
 }
 
 .home-container{
-    background:url(./images/home-img.jpeg) no-repeat;
+    background:url(images/home-img.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }

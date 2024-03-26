@@ -211,7 +211,7 @@ section{
 }
 
 .home-container{
-    background:url(../images/home-img.jpeg) no-repeat;
+    background:url(./images/home-img.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -514,7 +514,6 @@ section{
 }
 
 .footer{
-    /* background:var(--black); */
     text-align: center;
 }
 
@@ -566,20 +565,6 @@ section{
 .footer .credit span{
     color:var(--main-color);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* media queries  */
 @media (max-width:991px){
 
     html{
